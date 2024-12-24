@@ -1,6 +1,7 @@
 # Web-Programming-Lectures-Labs
 
-This repository contains all my HTML, CSS, JS, and PHP files for the Web Programming course.
+This repository contains all my HTML, CSS, JS, and PHP files for the Web Programming course.  
+Just download the RAR file and everything is inside.
 
 ## My Information
 
